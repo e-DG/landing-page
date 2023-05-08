@@ -75,6 +75,17 @@ body {
     justify-content: space-evenly;
 }
 
+.item {
+    width: 150px;
+}
+
+.item img {
+    width: 150px;
+    height: 150px;
+    border: 2px solid #388;
+    border-radius: 10%;
+}
+
 /*THIRD SECTION*/
 
 .third-section {
