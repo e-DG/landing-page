@@ -61,7 +61,16 @@ body {
 
 .second-section {
     padding: 10px 80px;
+    text-align: center;
 }
+
+.second-section-title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+
 
 /*THIRD SECTION*/
 
