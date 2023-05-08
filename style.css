@@ -4,7 +4,11 @@
 body {
     margin: 0;
     font-family: "Roboto";
+    background-color: white;
 }
+
+/*HEADER SECTION*/
+
 .first-section {
     background-color: #1f2937;
     color: aliceblue;
@@ -34,3 +38,24 @@ body {
     justify-content: space-between;
     gap: 20px;
 }
+
+/*SECOND SECTION*/
+
+.second-section {
+    padding: 10px 80px;
+}
+
+/*THIRD SECTION*/
+
+.third-section {
+    background-color: #e5e7eb;
+    padding: 10px 80px;
+}
+
+/*4 SECTION*/
+
+.fourth-section {
+    padding: 10px 80px;
+}
+
+/*FOOTER*/
