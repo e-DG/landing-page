@@ -70,7 +70,10 @@ body {
     color: #1f2937;
 }
 
-
+.item-grid {
+    display: flex;
+    justify-content: space-evenly;
+}
 
 /*THIRD SECTION*/
 
