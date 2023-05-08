@@ -11,7 +11,7 @@ body {
 
 .first-section {
     background-color: #1f2937;
-    color: aliceblue;
+    color: #f9faf8;
     height: 300px;
     padding: 10px 80px 15px;
 }
@@ -30,6 +30,8 @@ body {
 
 .logo {
     font-weight:bolder;
+    font-size: 24px;
+    
 }
 
 .introduction {
@@ -42,7 +44,6 @@ body {
 .title {
     font-size: 48px;
     font-weight: bolder;
-    color: #f9faf8;
 }
 
 /*SECOND SECTION*/
