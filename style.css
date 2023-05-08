@@ -125,6 +125,45 @@ img {
 
 .fourth-section {
     padding: 10px 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.call-to-action {
+    background-color: #388;
+    color: #f9faf8;
+    border-radius: 10px;
+    padding: 20px;
+    width: 800px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px;
+}
+
+.call-to-action-title {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.call-to-action-button {
+    background-color: #388;
+    border: 2px solid #f9faf8;
+    font-size: 18px;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+    color: white;
+    margin-top: 10px;
 }
 
 /*FOOTER*/
+
+footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 20px 0;
+}
