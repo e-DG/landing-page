@@ -7,6 +7,13 @@ body {
     background-color: white;
 }
 
+img {
+    width: 600px;
+    height: 200px;
+    border-radius: 10px;
+    border: 5px solid #e5e7eb;
+}
+
 /*HEADER SECTION*/
 
 .first-section {
@@ -84,8 +91,9 @@ body {
 .item img {
     width: 150px;
     height: 150px;
-    border: 2px solid #388;
+    border: 5px solid #388;
     border-radius: 10%;
+    margin-bottom: 10px;
 }
 
 /*THIRD SECTION*/
