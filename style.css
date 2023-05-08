@@ -62,12 +62,14 @@ body {
 .second-section {
     padding: 10px 80px;
     text-align: center;
+    margin: 30px 0;
 }
 
 .second-section-title {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
+    margin-bottom: 50px;
 }
 
 .item-grid {
