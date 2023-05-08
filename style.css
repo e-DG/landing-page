@@ -39,6 +39,12 @@ body {
     gap: 20px;
 }
 
+.title {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
 /*SECOND SECTION*/
 
 .second-section {
@@ -49,7 +55,10 @@ body {
 
 .third-section {
     background-color: #e5e7eb;
-    padding: 10px 80px;
+    font: 36px light;
+    font-style: italic;
+    color: #1f2937;
+    padding: 50px 80px;
 }
 
 /*4 SECTION*/
