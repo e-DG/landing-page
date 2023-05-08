@@ -46,6 +46,16 @@ body {
     font-weight: bolder;
 }
 
+.button-header {
+    background-color: #388;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    margin-top: 10px;
+}
+
 /*SECOND SECTION*/
 
 .second-section {
