@@ -66,7 +66,7 @@ img {
 /*SECOND SECTION*/
 
 .second-section {
-    padding: 10px 300px;
+    padding: 10px 350px;
     text-align: center;
     margin: 30px 0;
 }
@@ -81,6 +81,7 @@ img {
 .item-grid {
     display: flex;
     justify-content: space-evenly;
+    gap: 20px;
 }
 
 .item {
@@ -98,17 +99,22 @@ img {
 /*THIRD SECTION*/
 
 .third-section {
-    
     background-color: #e5e7eb;
+    padding: 50px 150px;
+}
+
+.testimony {
     font: 36px light;
     font-style: italic;
     color: #1f2937;
-    padding: 50px 350px;
+    width: 600px;
 }
 
 .author {
     margin-top: 10px;
     text-align: right;
+    font-weight: bolder;
+    font-size: 30px;
 }
 
 /*4 SECTION*/
