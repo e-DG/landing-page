@@ -13,7 +13,7 @@ body {
     background-color: #1f2937;
     color: #f9faf8;
     height: 300px;
-    padding: 10px 80px 15px;
+    padding: 10px 150px 15px;
 }
 
 .header {
@@ -95,13 +95,13 @@ body {
     font: 36px light;
     font-style: italic;
     color: #1f2937;
-    padding: 50px 80px;
+    padding: 50px 150px;
 }
 
 /*4 SECTION*/
 
 .fourth-section {
-    padding: 10px 80px;
+    padding: 10px 150px;
 }
 
 /*FOOTER*/
